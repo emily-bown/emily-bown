@@ -11,7 +11,7 @@
 ***
 
 ## About Me:
-My passion is to bring creativity to problem solving and finding efficient ways to implement solutions.
+My passion is to bring creativity to problem solving and to find efficient ways to implement solutions.
 
 - 👩‍💻 **Currently Working As:** Developer at [Purecontent](https://purecontent.com/)
 - 📚 **Currently Reading:** Clean Code, Robert C. Martin
