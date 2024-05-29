@@ -13,8 +13,8 @@
 ## About Me:
 My passion is to bring creativity to problem solving and to find efficient ways to implement solutions.
 
-- 👩‍💻 **Currently Working As:** Developer at [Purecontent](https://purecontent.com/)
-- 📚 **Currently Reading:** Clean Code, Robert C. Martin
+- 👩‍💻 **Currently Looking for:** Work in IT
+- 📚 **Currently Reading:** Essential Dutch Grammar, Henry R. Stern
 - 🌱 **Currently Learning:** Dutch 🇳🇱
 - 🎮 **Personal Hobbies:** Cooking, Old School Runescape, Pokémon GO
 - 📧 **Contact:** [emily@bown.dev](mailto:emily@bown.dev)
